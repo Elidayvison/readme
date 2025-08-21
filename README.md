@@ -83,11 +83,13 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=elidayvison&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=elidayvison&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidayvison&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidayvison&hide_border=true&layout=compact&langs_count=7&theme=dark" align="center" /></div>  
 
 <br/>  
+<!---
+
 
 
 ## Recent Blog Posts  
