@@ -65,7 +65,20 @@
 <br/>  
 
 
+## Github Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=elidayvison&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidayvison&hide_border=true&layout=compact&langs_count=7&theme=dark" align="center" /></div>  
+
+<br/>  
+
+<br/>
+<br/>
+
+
 ## Connect with me  
+<br/>
 <div align="center">
 <a href="https://linkedin.com/in/elidayvison" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -82,34 +95,10 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=elidayvison&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidayvison&hide_border=true&layout=compact&langs_count=7&theme=dark" align="center" /></div>  
-
-<br/>  
-<!---
 
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
 
-  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=elidayvison&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
